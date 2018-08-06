@@ -4,7 +4,7 @@ C# 8 Demo for the new proposed feature Async Streams
 
 Article: https://www.infoq.com/articles/cs8-async-streams
 
-To be able to test this featire, then you you have to build the roslyn branch: https://github.com/dotnet/roslyn/tree/features/async-streams
+To be able to test this feature, then you you have to build the roslyn branch: https://github.com/dotnet/roslyn/tree/features/async-streams
 
 Build the Async Streams Branch
 Start the VNext VS
